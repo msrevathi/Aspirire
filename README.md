@@ -1,1 +1,1 @@
-# Aspirire
+scalaStyleCheck
